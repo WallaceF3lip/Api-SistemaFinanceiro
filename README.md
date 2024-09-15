@@ -39,4 +39,4 @@ ____
 
 __CRÉDITOS__
 - Github : [Valdir Ferreira](https://github.com/ValdirFerreira)
-- You Tube : [Video Aula]()
+- You Tube : [Video Aula](https://youtube.com/playlist?list=PLP8qOphXwRnLdAIKYMbcMWUfSMvCux8fw&si=u5_E-vyyBl_4oUnV)
